@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Pushrealcomment\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
